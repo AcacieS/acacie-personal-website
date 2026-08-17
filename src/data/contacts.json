@@ -1,0 +1,32 @@
+[
+    {
+        "id": "linkedin",
+        "name": "LinkedIn",
+        "img": "/Images/doctor.png",
+        "link": "https://www.linkedin.com/in/your-profile"
+    },
+    {
+        "id": "itch",
+        "name": "Itch",
+        "img": "/Images/doctor.png",
+        "link": "https://acaciesong.itch.io"
+    },
+    {
+        "id": "Github",
+        "name": "GitHub",
+        "img": "/Images/doctor.png",
+        "link": "https://github.com/AcacieS"
+    },
+    {
+        "id": "mail",
+        "name": "LinkedIn",
+        "img": "/Images/doctor.png",
+        "reference": "acaciesong@gmail.com"
+    },
+    {
+        "id": "phone",
+        "name": "LinkedIn",
+        "img": "/Images/doctor.png",
+        "reference": "+1 438-876-8826"
+    }
+]

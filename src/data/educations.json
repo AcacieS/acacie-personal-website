@@ -1,0 +1,23 @@
+[
+    {
+        "id": "McGill",
+        "img": "/Images/doctor.png",
+        "schoolName": "McGill",
+        "title":"Bachelor Science: Computer Science",
+        "date": "expected: December 2027"
+    },
+    {
+        "id": "CegepMaisonneuve",
+        "img": "/Images/doctor.png",
+        "schoolName": "College Maisonneuve",
+        "title":"Cegep - Health Science",
+        "date": "2021-2023"
+    },
+    {
+        "id": "Jean-Eudes",
+        "img": "/Images/doctor.png",
+        "schoolName": "Jean-Eudes",
+        "title":"Secondary School",
+        "date": "2016-2021"
+    }
+]

@@ -1,0 +1,20 @@
+.education-container{
+    display: flex;
+    flex-direction: row;
+    line-height: 1.2;
+    gap:10px;
+}
+.education-img{
+    width:50px;
+}
+.education-schoolName{
+    font-size:20px;
+    font-weight: bold;
+}
+.education-title{
+    font-size: 12px;
+    font-weight: bold;
+}
+.education-date{
+    font-size: 10px;
+}

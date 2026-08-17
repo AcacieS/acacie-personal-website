@@ -1,0 +1,50 @@
+[
+  {
+    "id": "project1",
+    "title": "Tick and Stitch",
+    "language": "c#",
+    "date": "7/22-7/31",
+    "img": "/Images/tickAndStitch.png",
+    "features": [
+        "Machine States AI",
+        "BlackMarket Random"
+    ],
+    "link": "link tick stitch"
+  },
+  {
+    "id": "project2",
+    "title": "embedded",
+    "language": "c#",
+    "date": "id1",
+    "img": "/Images/doctor.png",
+    "features": [
+        "Machine States AI",
+        "BlackMarket Random"
+    ],
+    "link": "id1"
+  },
+  {
+    "id": "project3",
+    "title": "hello chatbot",
+    "language": "user",
+    "date": "id1",
+    "img": "/Images/doctor.png",
+    "features": [
+        "Machine States AI",
+        "BlackMarket Random"
+    ],
+    "link": "id1"
+  },
+  {
+    "id": "project4",
+    "title": "hello chatbot",
+    "language": "user",
+    "date": "id1",
+    "img": "/Images/doctor.png",
+    "features": [
+        "Machine States AI",
+        "BlackMarket Random"
+    ],
+    "link": "id1"
+  }
+]

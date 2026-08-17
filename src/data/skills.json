@@ -1,0 +1,32 @@
+[
+    {
+        "id": "Game",
+        "img": "/Images/doctor.png",
+        "name": "Game",
+        "codeLanguages": "(C# (Unity)/ C++ (Unreal))"
+    },
+    {
+        "id": "Web",
+        "img": "/Images/doctor.png",
+        "name": "Web",
+        "codeLanguages": "(JavaScript / Typescript / React / HTML / CSS)"
+    },
+    {
+        "id": "Data",
+        "name": "Data",
+        "img": "/Images/doctor.png",
+        "codeLanguages": "(Python)"
+    },
+    {
+        "id": "Systems",
+        "name": "Systems",
+        "img": "/Images/doctor.png",
+        "codeLanguages": "(C / C++ / MIPS)"
+    },
+    {
+        "id": "Software",
+        "name": "Software",
+        "img": "/Images/doctor.png",
+        "codeLanguages": "(Java)"
+    }
+]

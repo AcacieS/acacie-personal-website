@@ -1,0 +1,35 @@
+[
+    {
+        "id": "Beenox",
+        "img": "/Images/doctor.png",
+        "companyName": "Beenox (Activision) - Call of Duty",
+        "title":"Gameplay Programmer Intern",
+        "date": "01/2026-08/2026",
+        "features": [
+            "large codebase",
+            "Debugging"
+        ]
+    },
+    {
+        "id": "Teacher",
+        "img": "/Images/doctor.png",
+        "companyName": "Jihao Studio",
+        "title":"Teacher C# Unity",
+        "date": "09-12/2026",
+        "features": [
+            "teach programming C#",
+            "create game with students Platform and Casual"
+        ]
+    },
+    {
+        "id": "Otakuthon",
+        "img": "/Images/doctor.png",
+        "companyName": "Otakuthon",
+        "title":"Web Developer (Volunteer)",
+        "date": "01/2024-04/2024",
+        "features": [
+            "Figma",
+            "Debugging"
+        ]
+    }
+]

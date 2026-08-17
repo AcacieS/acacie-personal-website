@@ -1,0 +1,51 @@
+[
+  {
+    "id": "tickAndStitch",
+    "title": "Tick & Stitch",
+    "language": "C# (Unity)",
+    "date": "07/2026",
+    "img": "/Images/tickAndStitch.png",
+    "features": [
+        "Machine States AI",
+        "BlackMarket Random"
+    ],
+    "link": "/main/portfolio"
+  },
+  {
+    "id": "toWoundTheWaters",
+    "title": "Wound The Waters",
+    "language": "C# (Unity)",
+    "date": "01-04/2026",
+    "img": "/Images/woundTheWater.png",
+    "features": [
+        "Machine States AI",
+        "BlackMarket Random"
+    ],
+    "link": "id1"
+  },
+  {
+    "id": "oio/ois..u",
+    "title": "oio/ois..u",
+    "language": "C# (Unity)",
+    "date": "09/2025",
+    "img": "/Images/oisu.png",
+    "features": [
+        "AI NPC API",
+        "Tell AI in own language to do stuff",
+        "Describing flower to know poisonous"
+    ],
+    "link": "id1"
+  },
+  {
+    "id": "toWoundTheWaters",
+    "title": "Wound The Waters",
+    "language": "C# (Unity)",
+    "date": "01-04/2026",
+    "img": "/Images/woundTheWater.png",
+    "features": [
+        "Machine States AI",
+        "BlackMarket Random"
+    ],
+    "link": "id1"
+  }
+]
