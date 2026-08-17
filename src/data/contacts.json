@@ -1,21 +1,21 @@
 [
     {
-        "id": "linkedin",
-        "name": "LinkedIn",
-        "img": "/Images/Contacts/linkedln.png",
-        "links": "https://www.linkedin.com/in/your-profile"
+        "id": "Github",
+        "name": "GitHub",
+        "img": "/Images/Contacts/github.webp",
+        "link": "https://github.com/AcacieS"
     },
     {
         "id": "itch",
         "name": "Itch",
         "img": "/Images/Contacts/itch.svg",
-        "links": "https://acaciesong.itch.io"
+        "link": "https://acaciesong.itch.io"
     },
     {
-        "id": "Github",
-        "name": "GitHub",
-        "img": "/Images/Contacts/github.webp",
-        "links": "https://github.com/AcacieS"
+        "id": "linkedin",
+        "name": "LinkedIn",
+        "img": "/Images/Contacts/linkedln.png",
+        "link": "https://www.linkedin.com/in/your-profile"
     },
     {
         "id": "Mail",
