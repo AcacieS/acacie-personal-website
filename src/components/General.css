@@ -100,3 +100,10 @@
     background-color: white;
     border-radius: 10px;
 }
+
+.reference-link-container{
+
+}
+.reference-link-container img{
+    width: 30px;
+}

@@ -4,60 +4,45 @@
     "title": "Social Media Data Annotation ",
     "language": "Python - pandas",
     "date": "12/2025",
-    "img": "/Images/SocialMediaAnnotation.png",
     "features": [
-      "Coded and categorized 200+ Reddit posts to develop a topic taxonomy.",
-      "Annotated 600+ movie-related posts with consistent labels.",
-      "Processed and organized datasets using Python for analysis.",
-      "Supported analysis of movie visibility and reception."
+      "Performed **open coding** on 200+ Reddit posts to design a **topic taxonomy**.",
+      "Annotated **600+ posts** for movie-related topics with consistent labels.",
+      "Processed datasets using **Python** for CSV parsing, filtering, and splits.",
+      "Supported analysis of **movie visibility and reception** through structured data."
     ],
-    "complete-features": [
-      "Performed open coding on 200+ Reddit posts to design a topic taxonomy, enforcing single-label classification per post. ",
-      "Manually annotated 600+ posts for movie-related topics, ensuring consistent labeling and high data quality. ",
-      "Processed and organized datasets using Python (CSV parsing, filtering, and train/test-style splits) to support downstream analysis. ",
-      "Supported analysis of movie visibility and reception through structured, high-quality annotated data. "
-    ],
-    "page-link":"/portfolio",
-    "link": "https://github.com/wbohanw/COMP370FinalProj"
+    "pageLink":"/portfolio",
+    "links":[
+        "https://github.com/wbohanw/COMP370FinalProj"
+    ] 
   },
   {
     "id": "Okaraoke",
     "title": "OKaraoke",
     "language": "TypeScript, Python, Tailwind",
     "date": "11/2025",
-    "img": "/Images/doctor.png",
     "features": [
-        "Built OKaraoke, a website that turns YouTube videos link into a karaoke experience with lyric alignment and pitch scoring. ",
-        "Front-end: Developed animated Cover, Loading screen (Disk), and Scoring UI components with TypeScript, Tailwind, and DaisyUI. ",
-        "Implemented Python audio-processing with Aubio for MIDI conversion and pitch extraction. ",
-        "Analyzed microphone input and compared it to MIDI data for real-time pitch scoring."
+      "Built **OKaraoke**, a website turning YouTube links into karaoke with lyric alignment and pitch scoring.",
+      "Developed animated **Cover, Loading, and Scoring UI** with TypeScript, Tailwind, and DaisyUI.",
+      "Implemented **Python audio processing** with Aubio for MIDI conversion and pitch extraction.",
+      "Compared **microphone input** to MIDI data for real-time pitch scoring."
     ],
-    "complete-features": [
-        "Built OKaraoke, a website that turns YouTube videos link into a karaoke experience with lyric alignment and pitch scoring. ",
-        "Front-end: Developed animated Cover, Loading screen (Disk), and Scoring UI components with TypeScript, Tailwind, and DaisyUI. ",
-        "Implemented Python audio-processing with Aubio for MIDI conversion and pitch extraction. ",
-        "Analyzed microphone input and compared it to MIDI data for real-time pitch scoring."
-    ],
-    "page-link":"/portfolio",
-    "link": "https://github.com/ol1oly/okaraoke"
+    "pageLink":"/portfolio",
+    "links": [
+      "https://github.com/ol1oly/okaraoke",
+      "https://devpost.com/software/okaraoke"
+    ]
   },
   {
-    "id": "project3",
+    "id": "ScrapingTrendingNew",
     "title": "Web Scraping Trending News",
     "language": "Python - BeautifulSoup",
     "date": "11/2025",
-    "img": "/Images/doctor.png",
     "features": [
-        "Built a Python scraper using requests and BeautifulSoup to extract 5 trending news articles from the Montreal Gazette. ",
-        "Implemented HTML caching system (1-hour expiry) with custom User-Agent headers to prevent blocking. ",
-        "Parsed and cleaned article titles, authors, publication dates, and blurbs into a structured JSON output. "
+      "Built a **Python scraper** using requests and BeautifulSoup to extract 5 trending news articles.",
+      "Implemented **HTML caching** with 1-hour expiry and custom User-Agent headers.",
+      "Parsed and cleaned article data into a structured **JSON output**."
     ],
-    "complete-features": [
-        "Built a Python scraper using requests and BeautifulSoup to extract 5 trending news articles from the Montreal Gazette. ",
-        "Implemented HTML caching system (1-hour expiry) with custom User-Agent headers to prevent blocking. ",
-        "Parsed and cleaned article titles, authors, publication dates, and blurbs into a structured JSON output. "
-    ],
-    "page-link":"/portfolio",
-    "link": "https://github.com/AcacieS/Web_Scarping_TrendingNews_ArticleInfo"
+    "pageLink":"/portfolio",
+    "links": ["https://github.com/AcacieS/Web_Scarping_TrendingNews_ArticleInfo"]
   }
 ]

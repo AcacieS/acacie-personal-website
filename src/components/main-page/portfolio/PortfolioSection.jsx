@@ -1,6 +1,6 @@
 import Projects from './Projects'
 import PortfolioLanguages from './PortfolioLanguages'
-import {SectionTitle, Section, Link} from '../../General'
+import {SectionTitle, Section} from '../../General'
 import './PortfolioSection.css';
 import { useState } from 'react'
 import projectsData from '@src/data/projects/gameProjects.json'; 
@@ -20,7 +20,7 @@ export function PortfolioPage(){
             <Projects 
                 projects = {projects}
             />
-            <Link className="project-link" to={"/main/portfolio"}>More Projects To see</Link>
+            {/* <Link className="project-link" to={"/main/portfolio"}>More Projects To see</Link> */}
             {/* <PortfolioLink/> */}
         </Section>
     )

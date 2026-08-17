@@ -49,3 +49,47 @@ export function Link({ children, className = '', to }) {
         </button>
     );
 }
+
+export function FormattedText({ text }) {
+    const parts = text.split("**");
+
+    return (
+        <>
+            {parts.map((part, index) =>
+                index % 2 === 1
+                    ? <strong key={index}>{part}</strong>
+                    : part
+            )}
+        </>
+    );
+}
+
+
+export function Reference({ link }) {
+    const images = {
+        github: "/Images/Contacts/github.webp",
+        itch: "/Images/Contacts/itch.svg",
+        devpost: "/Images/Contacts/devpost.png"
+    };
+
+    let img;
+
+    if (link.includes("github")) {
+        img = images.github;
+    } else if (link.includes("itch")) {
+        img = images.itch;
+    } else if (link.includes("devpost")) {
+        img = images.devpost;
+    }
+
+    return (
+        <a
+            className="reference-link-container"
+            href={link}
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            <img src={img} />
+        </a>
+    );
+}

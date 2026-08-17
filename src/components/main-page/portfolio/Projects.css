@@ -1,9 +1,11 @@
-.projects-container{
+.projects-container {
     display: flex;
     flex-direction: row;
-    padding: 10px 30px;
     margin: 10px 30px;
     justify-content: center;
-    align-items: center;
-    gap:20px;
+    align-items: stretch; /* important */
+    box-sizing: border-box;
+    flex: 1;
+    min-height: 0;
+    gap: 20px;
 }

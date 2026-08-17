@@ -7,7 +7,7 @@ export function Projects({projects}){
             {projects.map((project) => (
                 <Project 
                     key={project.id}
-                    {...project}
+                    project = {project}
                 />
             ))}
         </div>

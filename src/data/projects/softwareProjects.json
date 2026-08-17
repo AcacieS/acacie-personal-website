@@ -4,64 +4,42 @@
     "title": "Metro System Planning Tool Optimization",
     "language": "Java",
     "date": "12/2024",
-    "img": "/Images/tickAndStitch.png",
     "features": [
-      "Optimized DisjointSet with path compression + union-by-size, handling 10,000+ ops in near-constant time, ~100x faster than naive. ",
-      "Applied Edmonds-Karp (with Breadth-First Search) to calculate maximum passenger flow. ",
-      "Used Kruskal's algorithm to find Minimum spanning tree (network), cutting network cost by ~20%: capacity and costs ",
-      "Built a trie-based search system for efficient passenger name O(m) lookup. ",
-      "Solved scheduling optimization problems for ticket checker hiring with a greedy approach."
+      "Optimized **DisjointSet** with path compression + union-by-size, handling 10,000+ ops in near-constant time, ~100x faster than naive. ",
+      "Applied **Edmonds-Karp** (with Breadth-First Search) to calculate maximum passenger flow. ",
+      "Used **Kruskal's algorithm** to find Minimum spanning tree (network), cutting network cost by ~20%: capacity and costs ",
+      "Built a **trie-based search system** for efficient passenger name O(m) lookup. ",
+      "Solved **scheduling optimization problems** for ticket checker hiring with a greedy approach."
     ],
-    "complete-features": [
-      "Optimized DisjointSet with path compression + union-by-size, handling 10,000+ ops in near-constant time, ~100x faster than naive. ",
-      "Applied Edmonds-Karp (with Breadth-First Search) to calculate maximum passenger flow. ",
-      "Used Kruskal's algorithm to find Minimum spanning tree (network), cutting network cost by ~20%: capacity and costs ",
-      "Built a trie-based search system for efficient passenger name O(m) lookup. ",
-      "Solved scheduling optimization problems for ticket checker hiring with a greedy approach."
-    ],
-    "page-link":"/portfolio",
-    "link": "https://github.com/AcacieS/Metro-System-Planning-Tool-Optimization-Java"
+    "pageLink":"/portfolio",
+    "links": ["https://github.com/AcacieS/Metro-System-Planning-Tool-Optimization-Java"]
   },
   {
     "id": "3DGraphics",
     "title": "3D Graphics, Shadow Mapping, Mesh Project",
     "language": "Python -- OpenGL",
     "date": "10-11/2024",
-    "img": "/Images/doctor.png",
     "features": [
-        "3D Transformations - Implemented rotation interpolation, Gimbal Lock detection, smooth transitions using moderngl, numpy, and pyrr.",
-        "Camera Frustums - Built first- and third-person frustum visualizations for better scene rendering.",
-        "Shadow Mapping - Developed real-time shadows with post-projection maps and planar shadows."
+      "**3D Transformations** - Implemented rotation interpolation, Gimbal Lock detection, and smooth transitions using moderngl, numpy, and pyrr.",
+      "**Camera Frustums** - Built first- and third-person frustum visualizations for better scene rendering.",
+      "**Shadow Mapping** - Developed real-time shadows with post-projection maps and planar shadows."
     ],
-    "complete-features": [
-        "3D Transformations - Implemented rotation interpolation, Gimbal Lock detection, smooth transitions using moderngl, numpy, and pyrr.",
-        "Camera Frustums - Built first- and third-person frustum visualizations for better scene rendering.",
-        "Shadow Mapping - Developed real-time shadows with post-projection maps and planar shadows."
-    ],
-    "page-link":"/portfolio",
-    "link": "https://github.com/AcacieS/3D-Graphics_Rotation"
+    "pageLink":"/portfolio",
+    "links": ["https://github.com/AcacieS/3D-Graphics_Rotation"]
   },
   {
-    "id": "project3",
+    "id": "Search Engine Development",
     "title": "Search Engine Development",
     "language": "Java",
     "date": "id1",
-    "img": "/Images/doctor.png",
     "features": [
-        "Designed a search engine using Hash Maps, Graphs, and Sorting Algorithms.",
-        "Implemented graph structures with Breadth-First Search (BFS) and Depth-First Search (DFS) for data traversal.",
-        "Used hash tables for efficient data storage and retrieval.",
-        "Implemented MergeSort and QuickSort for improved performance.",
-        "Combined graphs, hash tables, and sorting algorithms to optimize search processes."
+      "Designed a **search engine** using Hash Maps, Graphs, and Sorting Algorithms.",
+      "Implemented graph structures with **Breadth-First Search (BFS)** and **Depth-First Search (DFS)** for data traversal.",
+      "Used **hash tables** for efficient data storage and retrieval.",
+      "Implemented **MergeSort and QuickSort** for improved performance.",
+      "Combined **graphs, hash tables, and sorting algorithms** to optimize search processes."
     ],
-    "complete-features": [
-        "Designed a search engine using Hash Maps, Graphs, and Sorting Algorithms.",
-        "Implemented graph structures with Breadth-First Search (BFS) and Depth-First Search (DFS) for data traversal.",
-        "Used hash tables for efficient data storage and retrieval.",
-        "Implemented MergeSort and QuickSort for improved performance.",
-        "Combined graphs, hash tables, and sorting algorithms to optimize search processes."
-    ],
-    "page-link":"/portfolio",
-    "link": "https://github.com/AcacieS/Basic-Search-Engine"
+    "pageLink":"/portfolio",
+    "links": ["https://github.com/AcacieS/Basic-Search-Engine"]
   }
 ]

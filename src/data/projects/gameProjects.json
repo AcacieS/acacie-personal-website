@@ -4,38 +4,44 @@
     "title": "Tick & Stitch",
     "language": "C# (Unity)",
     "date": "07/2026",
-    "img": "/Images/tickAndStitch.GIF",
+    "img": "/Images/projects/tickAndStitch.GIF",
     "features": [
         "Machine States AI",
         "BlackMarket Random"
     ],
-    "page-link":"/portfolio",
-    "link": "/portfolio"
+    "pageLink":"/portfolio",
+    "links": [
+      "https://acaciesong.itch.io/tick-and-stitch",
+      "https://github.com/J-on-S/GMTK26"
+    ]
   },
   {
     "id": "toWoundTheWaters",
     "title": "Wound The Waters",
     "language": "C# (Unity)",
     "date": "01-04/2026",
-    "img": "/Images/woundTheWater.png",
+    "img": "/Images/projects/woundTheWater.png",
     "features": [
         "Machine States AI",
         "BlackMarket Random"
     ],
-    "page-link":"/portfolio",
-    "link": "id1"
+    "pageLink":"/portfolio",
+    "links": [
+      "https://murashki.itch.io/to-wound-the-waters",
+      "https://github.com/AcacieS/GreatUnknown2D"
+    ]
   },
   {
     "id": "oio/ois..u",
-    "title": "2D AI Co-op Puzzle Game",
+    "title": "2D AI Co-op Puzzle",
     "language": "C# (Unity)",
     "date": "09/2025",
-    "img": "/Images/oisu.png",
+    "img": "/Images/projects/oisu.png",
     "features": [
-        "Top-4 finalist; awarded $1,000 USD.", 
-        "Integrated an AI NPC API to simulate a cooperative AI partner with distinct personality and adaptive instructions. ",
-        "Designed point-and-click puzzles requiring human-AI collaboration, e.g., identifying poisonous flowers through player description.", 
-        "Implemented contextual dialogue system for AI partner, providing players with dynamic hints and emotional responses. "
+        "**Top-4 finalist**; won **$1,000 USD**.",
+        "Integrated an **AI NPC API** with adaptive personality.",
+        "Designed puzzles requiring **human-AI collaboration**, including identifying **poisonous flowers**.",
+        "Implemented contextual dialogue with **dynamic hints and responses**."
     ],
     "complete-features": [
         "Top-4 finalist; awarded $1,000 USD.", 
@@ -43,20 +49,20 @@
         "Designed point-and-click puzzles requiring human-AI collaboration, e.g., identifying poisonous flowers through player description.", 
         "Implemented contextual dialogue system for AI partner, providing players with dynamic hints and emotional responses. "
     ],
-    "page-link":"/portfolio",
-    "link": "https://acaciesong.itch.io/oiooisu"
+    "pageLink":"/projects/portfolio",
+    "links": ["https://acaciesong.itch.io/oiooisu"]
   },
   {
     "id": "UnrealLightUp",
     "title": "3D Casual Game ",
     "language": "(C++/Blueprints - Unreal)",
     "date": "01/2026",
-    "img": "/Images/woundTheWater.png",
+    "img": "/Images/projects/woundTheWater.png",
     "features": [
         "Implemented projectile motion and a real-time trajectory prediction system with curve visualization and landing indicators.",
         "Integrated lighting logic, particle effects, and 2D animation workflows within a 3D environment. "
     ],
-    "page-link":"/portfolio",
-    "link": "id1"
+    "pageLink":"/portfolio",
+    "links": ["https://github.com/AcacieS/LightUp"]
   }
 ]

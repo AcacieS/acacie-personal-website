@@ -3,19 +3,19 @@
         "id": "linkedin",
         "name": "LinkedIn",
         "img": "/Images/Contacts/linkedln.png",
-        "link": "https://www.linkedin.com/in/your-profile"
+        "links": "https://www.linkedin.com/in/your-profile"
     },
     {
         "id": "itch",
         "name": "Itch",
         "img": "/Images/Contacts/itch.svg",
-        "link": "https://acaciesong.itch.io"
+        "links": "https://acaciesong.itch.io"
     },
     {
         "id": "Github",
         "name": "GitHub",
         "img": "/Images/Contacts/github.webp",
-        "link": "https://github.com/AcacieS"
+        "links": "https://github.com/AcacieS"
     },
     {
         "id": "Mail",

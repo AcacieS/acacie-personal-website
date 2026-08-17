@@ -4,48 +4,51 @@
     "title": "OKaraoke",
     "language": "TypeScript, Python, Tailwind",
     "date": "11/2025",
-    "img": "/Images/doctor.png",
+    "img": "/Images/projects/okaraoke.png",
     "features": [
-        "Built OKaraoke, a website that turns YouTube videos link into a karaoke experience with lyric alignment and pitch scoring. ",
-        "Front-end: Developed animated Cover, Loading screen (Disk), and Scoring UI components with TypeScript, Tailwind, and DaisyUI. ",
-        "Implemented Python audio-processing with Aubio for MIDI conversion and pitch extraction. ",
-        "Analyzed microphone input and compared it to MIDI data for real-time pitch scoring."
+      "Built **OKaraoke**, turning YouTube links into karaoke with pitch scoring.",
+      "Developed animated **UI** with TypeScript, Tailwind, and DaisyUI.",
+      "Used **Python and Aubio** for MIDI conversion and pitch extraction.",
+      "Matched **microphone input** to MIDI for real-time scoring."
     ],
     "complete-features": [
-        "Built OKaraoke, a website that turns YouTube videos link into a karaoke experience with lyric alignment and pitch scoring. ",
+        "Built OKaraoke, a website that turns YouTube videos links into a karaoke experience with lyric alignment and pitch scoring. ",
         "Front-end: Developed animated Cover, Loading screen (Disk), and Scoring UI components with TypeScript, Tailwind, and DaisyUI. ",
         "Implemented Python audio-processing with Aubio for MIDI conversion and pitch extraction. ",
         "Analyzed microphone input and compared it to MIDI data for real-time pitch scoring."
     ],
-    "page-link":"/portfolio",
-    "link": "https://github.com/ol1oly/okaraoke"
+    "pageLink":"/portfolio",
+    "links": [
+      "https://github.com/ol1oly/okaraoke",
+      "https://devpost.com/software/okaraoke"
+    ]
   },
   {
     "id": "RubiksCube",
     "title": "Rubik's Cube Website",
     "language": "HTML/CSS, Javascript",
     "date": "id1",
-    "img": "/Images/doctor.png",
+    "img": "/Images/projects/doctor.png",
     "features": [
-        "Built an interactive website using HTML, CSS, and JavaScript to teach Rubik's Cube solving techniques. ",
-        "Implemented dynamic navigation and visuals for step-by-step instructions and algorithm demos. ",
-        "Designed a responsive, clean layout with flexbox integrating images and text for clarity. ",
-        "Explained complex math concepts like permutations and group theory through interactive visuals." 
+      "Built an interactive **Rubik's Cube** website with HTML, CSS, and JavaScript.",
+      "Implemented dynamic **step-by-step instructions** and algorithm demos.",
+      "Designed a responsive layout with **Flexbox**, images, and text.",
+      "Explained **permutations and group theory** through interactive visuals."
     ],
-    "page-link":"/portfolio",
-    "link": "https://github.com/AcacieS/Rubiks_CubeWebsite"
+    "pageLink":"/portfolio",
+    "links": ["https://github.com/AcacieS/Rubiks_CubeWebsite"]
   },
   {
     "id": "RestroomFinder",
-    "title": "Restroom Finder Web App ",
+    "title": "Restroom Finder Web",
     "language": "HTML/CSS",
     "date": "id1",
-    "img": "/Images/doctor.png",
+    "img": "/Images/projects/restroomFinder.png",
     "features": [
-        "Developed a web app to help travelers locate restrooms, filtering by cost, accessibility, cleanliness, and water availability.",
-        "Designed responsive frontend layout using HTML, CSS, and Flexbox, incorporating placeholders for map, water availability, and filter sections. ",
-        "Created UI mockups in Figma and translated designs into functional web pages. ",
-        "Participated in a hackathon environment, delivering a working MVP within limited time constraints. "
+      "Built a **restroom-finder web app** with filters for cost, accessibility, and cleanliness.",
+      "Designed a responsive **frontend** with HTML, CSS, and Flexbox.",
+      "Created **Figma mockups** and turned them into functional pages.",
+      "Delivered a working **MVP** in a hackathon."
     ],
     "complete-features": [
         "Developed a web app to help travelers locate restrooms, filtering by cost, accessibility, cleanliness, and water availability.",
@@ -53,20 +56,7 @@
         "Created UI mockups in Figma and translated designs into functional web pages. ",
         "Participated in a hackathon environment, delivering a working MVP within limited time constraints. "
     ],
-    "page-link":"/portfolio",
-    "link": "https://devpost.com/software/find-toilet"
-  },
-  {
-    "id": "project4",
-    "title": "hello chatbot",
-    "language": "user",
-    "date": "id1",
-    "img": "/Images/doctor.png",
-    "features": [
-        "Machine States AI",
-        "BlackMarket Random"
-    ],
-    "page-link":"/portfolio",
-    "link": "id1"
+    "pageLink":"/portfolio",
+    "links": ["https://devpost.com/software/find-toilet"]
   }
 ]
