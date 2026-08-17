@@ -4,12 +4,13 @@
     "title": "Tick & Stitch",
     "language": "C# (Unity)",
     "date": "07/2026",
-    "img": "/Images/tickAndStitch.png",
+    "img": "/Images/tickAndStitch.GIF",
     "features": [
         "Machine States AI",
         "BlackMarket Random"
     ],
-    "link": "/main/portfolio"
+    "page-link":"/portfolio",
+    "link": "/portfolio"
   },
   {
     "id": "toWoundTheWaters",
@@ -21,31 +22,41 @@
         "Machine States AI",
         "BlackMarket Random"
     ],
+    "page-link":"/portfolio",
     "link": "id1"
   },
   {
     "id": "oio/ois..u",
-    "title": "oio/ois..u",
+    "title": "2D AI Co-op Puzzle Game",
     "language": "C# (Unity)",
     "date": "09/2025",
     "img": "/Images/oisu.png",
     "features": [
-        "AI NPC API",
-        "Tell AI in own language to do stuff",
-        "Describing flower to know poisonous"
+        "Top-4 finalist; awarded $1,000 USD.", 
+        "Integrated an AI NPC API to simulate a cooperative AI partner with distinct personality and adaptive instructions. ",
+        "Designed point-and-click puzzles requiring human-AI collaboration, e.g., identifying poisonous flowers through player description.", 
+        "Implemented contextual dialogue system for AI partner, providing players with dynamic hints and emotional responses. "
     ],
-    "link": "id1"
+    "complete-features": [
+        "Top-4 finalist; awarded $1,000 USD.", 
+        "Integrated an AI NPC API to simulate a cooperative AI partner with distinct personality and adaptive instructions. ",
+        "Designed point-and-click puzzles requiring human-AI collaboration, e.g., identifying poisonous flowers through player description.", 
+        "Implemented contextual dialogue system for AI partner, providing players with dynamic hints and emotional responses. "
+    ],
+    "page-link":"/portfolio",
+    "link": "https://acaciesong.itch.io/oiooisu"
   },
   {
-    "id": "toWoundTheWaters",
-    "title": "Wound The Waters",
-    "language": "C# (Unity)",
-    "date": "01-04/2026",
+    "id": "UnrealLightUp",
+    "title": "3D Casual Game ",
+    "language": "(C++/Blueprints - Unreal)",
+    "date": "01/2026",
     "img": "/Images/woundTheWater.png",
     "features": [
-        "Machine States AI",
-        "BlackMarket Random"
+        "Implemented projectile motion and a real-time trajectory prediction system with curve visualization and landing indicators.",
+        "Integrated lighting logic, particle effects, and 2D animation workflows within a 3D environment. "
     ],
+    "page-link":"/portfolio",
     "link": "id1"
   }
 ]

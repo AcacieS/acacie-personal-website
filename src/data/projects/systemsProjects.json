@@ -1,50 +1,86 @@
 [
   {
-    "id": "project1",
-    "title": "Tick and Stitch",
-    "language": "c#",
-    "date": "7/22-7/31",
+    "id": "DemandPaging",
+    "title": "Demand Paging Simulation",
+    "language": "Memory Management Module (C)",
+    "date": "04/2025",
     "img": "/Images/tickAndStitch.png",
     "features": [
-        "Machine States AI",
-        "BlackMarket Random"
+        "Added demand paging to a simulated OS shell, enabling programs larger than memory by loading pages on demand.",
+        "Implemented LRU page replacement, reducing page faults by ~30% compared to random eviction. ",
+        "Handled page faults with process interruption, logging, and correct virtual-to-physical mapping; validated with 40+ test cases.",
+        "Enabled memory sharing for identical processes (up to 40% savings) and extended program loading (exec/source) with paging support. "
     ],
+    "complete-features": [
+        "Added demand paging to a simulated OS shell, enabling programs larger than memory by loading pages on demand.",
+        "Implemented LRU page replacement, reducing page faults by ~30% compared to random eviction. ",
+        "Handled page faults with process interruption, logging, and correct virtual-to-physical mapping; validated with 40+ test cases.",
+        "Enabled memory sharing for identical processes (up to 40% savings) and extended program loading (exec/source) with paging support. "
+    ],
+    "page-link":"/portfolio",
     "link": "link tick stitch"
   },
   {
-    "id": "project2",
-    "title": "systems",
-    "language": "c#",
-    "date": "id1",
+    "id": "DistributedDNS",
+    "title": "Distributed DNS Cache System",
+    "language": "C++",
+    "date": "03-04/2025",
     "img": "/Images/doctor.png",
     "features": [
-        "Machine States AI",
-        "BlackMarket Random"
+        "Built a DNS routing system with dynamic domain-to-IP mapping, optimized caching, and file-based DNS storage for 1,000+ domains.",
+        "Implemented LRU, LFU, and LIFO eviction via polymorphic inheritance and a custom doubly linked list, reducing lookup latency by ~35%.", 
+        "Developed distributed DNS managers enabling dynamic load balancing and automatic DNS entry redistribution.", 
+        "Ensured runtime safety via exception handling, cache sync, memory-safe allocation, and thorough testing."
     ],
+    "complete-features": [
+        "Built a DNS routing system with dynamic domain-to-IP mapping, optimized caching, and file-based DNS storage for 1,000+ domains.",
+        "Implemented LRU, LFU, and LIFO eviction via polymorphic inheritance and a custom doubly linked list, reducing lookup latency by ~35%.", 
+        "Developed distributed DNS managers enabling dynamic load balancing and automatic DNS entry redistribution.", 
+        "Ensured runtime safety via exception handling, cache sync, memory-safe allocation, and thorough testing."
+    ],
+    "page-link":"/portfolio",
     "link": "id1"
   },
   {
     "id": "project3",
-    "title": "hello chatbot",
-    "language": "user",
-    "date": "id1",
+    "title": "Optimization and Implementation of the Tower of Hanoi",
+    "language": "MIPS Assembly",
+    "date": "11/2024",
     "img": "/Images/doctor.png",
     "features": [
-        "Machine States AI",
-        "BlackMarket Random"
+        "Developed recursive and non-recursive solutions for the Tower of Hanoi puzzle",
+        "Implemented efficient cache management and memory access techniques for both algorithms. ",
+        "Utilized MARS tools to measure performance, including cache misses, memory accesses, and instruction count. ",
+        "Conducted performance analysis with different cache configurations to optimize execution speed."
     ],
-    "link": "id1"
+    "complete-features": [
+        "Developed recursive and non-recursive solutions for the Tower of Hanoi puzzle",
+        "Implemented efficient cache management and memory access techniques for both algorithms. ",
+        "Utilized MARS tools to measure performance, including cache misses, memory accesses, and instruction count. ",
+        "Conducted performance analysis with different cache configurations to optimize execution speed."
+    ],
+    "page-link":"/portfolio",
+    "link": "https://github.com/AcacieS/Optimization-and-Implementation-of-the-Tower-of-Hanoi-in-MIPS-Assembly"
   },
   {
-    "id": "project4",
-    "title": "hello chatbot",
-    "language": "user",
-    "date": "id1",
+    "id": "CSVBackend",
+    "title": "CSV-Backend Database Development",
+    "language": "C",
+    "date": "03/2024",
     "img": "/Images/doctor.png",
     "features": [
-        "Machine States AI",
-        "BlackMarket Random"
+        "Developed a lightweight database engine with custom in-memory data structures and pointer-based record management.",
+      "Implemented low-level CSV file I/O functions for persistent storage and data synchronization.",
+      "Designed a command-line interface (CLI) for user interaction, handling command parsing, validation, and error recovery.",
+      "Managed dynamic memory allocation and resizing with malloc/realloc to support growing datasets efficiently."
     ],
+    "complete-features": [
+        "Developed a lightweight database engine with custom in-memory data structures and pointer-based record management.",
+      "Implemented low-level CSV file I/O functions for persistent storage and data synchronization.",
+      "Designed a command-line interface (CLI) for user interaction, handling command parsing, validation, and error recovery.",
+      "Managed dynamic memory allocation and resizing with malloc/realloc to support growing datasets efficiently."
+    ],
+    "page-link":"/portfolio",
     "link": "id1"
   }
 ]

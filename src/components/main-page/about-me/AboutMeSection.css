@@ -18,6 +18,11 @@
     flex: 1;
     height: 100%;
 }
+.about-me-profile-contacts-container{
+    display: flex;
+    flex-direction: column;
+    gap:25px;
+}
 .about-me-contacts{
     display: flex;
     flex-direction: row;

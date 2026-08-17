@@ -1,32 +1,32 @@
 [
     {
         "id": "Game",
-        "img": "/Images/doctor.png",
+        "img": "/Images/Skills/game.svg",
         "name": "Game",
         "codeLanguages": "(C# (Unity)/ C++ (Unreal))"
     },
     {
         "id": "Web",
-        "img": "/Images/doctor.png",
+        "img": "/Images/Skills/web.webp",
         "name": "Web",
         "codeLanguages": "(JavaScript / Typescript / React / HTML / CSS)"
     },
     {
         "id": "Data",
         "name": "Data",
-        "img": "/Images/doctor.png",
+        "img": "/Images/Skills/data.webp",
         "codeLanguages": "(Python)"
     },
     {
         "id": "Systems",
         "name": "Systems",
-        "img": "/Images/doctor.png",
+        "img": "/Images/Skills/system.png",
         "codeLanguages": "(C / C++ / MIPS)"
     },
     {
         "id": "Software",
         "name": "Software",
-        "img": "/Images/doctor.png",
-        "codeLanguages": "(Java)"
+        "img": "/Images/Skills/software.png",
+        "codeLanguages": "(Java / OCaml)"
     }
 ]

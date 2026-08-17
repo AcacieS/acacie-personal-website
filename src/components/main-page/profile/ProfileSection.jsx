@@ -10,9 +10,12 @@ export function ProfileSection(){
         <Section className="profile-section-container">
             <SectionTitle title = "Installed Programs"></SectionTitle>
             <div className="profile-content-section-container">
-                <Skills />
+                <div className="profile-educations-skills-container">
+                    <Educations />
+                    <Skills />
+                </div>
                 <Experiences />
-                <Educations />
+                
             </div>
             
         </Section>

@@ -2,31 +2,31 @@
     {
         "id": "linkedin",
         "name": "LinkedIn",
-        "img": "/Images/doctor.png",
+        "img": "/Images/Contacts/linkedln.png",
         "link": "https://www.linkedin.com/in/your-profile"
     },
     {
         "id": "itch",
         "name": "Itch",
-        "img": "/Images/doctor.png",
+        "img": "/Images/Contacts/itch.svg",
         "link": "https://acaciesong.itch.io"
     },
     {
         "id": "Github",
         "name": "GitHub",
-        "img": "/Images/doctor.png",
+        "img": "/Images/Contacts/github.webp",
         "link": "https://github.com/AcacieS"
     },
     {
-        "id": "mail",
-        "name": "LinkedIn",
-        "img": "/Images/doctor.png",
+        "id": "Mail",
+        "name": "Mail",
+        "img": "/Images/Contacts/mail.png",
         "reference": "acaciesong@gmail.com"
     },
     {
-        "id": "phone",
-        "name": "LinkedIn",
-        "img": "/Images/doctor.png",
-        "reference": "+1 438-876-8826"
+        "id": "Phone",
+        "name": "Phone",
+        "img": "/Images/Contacts/phone.png",
+        "reference": "+1 (438)876-8826"
     }
 ]

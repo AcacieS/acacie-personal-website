@@ -1,8 +1,13 @@
 .profile-container{
-    width: 200px;
+    object-fit: contain;
 }
 .profile-content-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .profile-image{
-    
+    object-fit: contain;
+    width: auto;
+    max-height: 150px;
 }

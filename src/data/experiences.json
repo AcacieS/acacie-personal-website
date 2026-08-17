@@ -1,35 +1,35 @@
 [
     {
         "id": "Beenox",
-        "img": "/Images/doctor.png",
+        "img": "/Images/Companies/beenox.jpg",
         "companyName": "Beenox (Activision) - Call of Duty",
         "title":"Gameplay Programmer Intern",
-        "date": "01/2026-08/2026",
+        "date": "01-08/2026",
         "features": [
-            "large codebase",
-            "Debugging"
+            "Built gameplay features in C++ within a large, shared production codebase",
+            "Extended existing systems and fixed bugs with testing"
         ]
     },
     {
         "id": "Teacher",
         "img": "/Images/doctor.png",
         "companyName": "Jihao Studio",
-        "title":"Teacher C# Unity",
+        "title":"Game Development Instructor (Contract)",
         "date": "09-12/2026",
         "features": [
-            "teach programming C#",
-            "create game with students Platform and Casual"
+            "Taught students fundamental programming and 2D game development platformer using Unity and C#.",
+            "Mentored and collaborated with students during a game jam to build a 2D horror platformer."
         ]
     },
     {
         "id": "Otakuthon",
-        "img": "/Images/doctor.png",
+        "img": "/Images/Companies/otakuthon.jpg",
         "companyName": "Otakuthon",
         "title":"Web Developer (Volunteer)",
         "date": "01/2024-04/2024",
         "features": [
-            "Figma",
-            "Debugging"
+            "Built a responsive landing page using HTML, CSS, closely following a Figma design mockup, ensuring consistent branding across devices.",
+            "Supported an event with 20,000+ annual attendees, contributing to online presence and promotion of Canada's largest anime convention. "
         ]
     }
 ]
