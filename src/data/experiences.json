@@ -1,15 +1,25 @@
 [
     {
+        "id": "Ericsson",
+        "img": "/Images/Companies/ericsson.png",
+        "companyName": "Ericsson Canada Inc.",
+        "title":"Software Developer Intern (JavasScript, Node.js, Databases)",
+        "date": "09-12/2026",
+        "features": [
+        ]
+    },
+    {
         "id": "Beenox",
         "img": "/Images/Companies/beenox.jpg",
         "companyName": "Beenox (Activision) - Call of Duty",
         "title":"Gameplay Programmer Intern",
         "date": "01-08/2026",
         "features": [
-            "Built gameplay features in C++ within a large, shared production codebase",
-            "Extended existing systems and fixed bugs with testing"
+            "Implemented gameplay features in C++ and GSC across 18 tasks for upcoming and live Call of Duty titles within a large, shared codebase.",
+            "Extended and integrated existing gameplay systems, collaborating with QA to debug and fix bugs across C++ systems and GSC scripts."
         ]
     },
+    
     {
         "id": "Teacher",
         "img": "/Images/doctor.png",
