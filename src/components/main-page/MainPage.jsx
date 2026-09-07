@@ -1,6 +1,7 @@
 import AboutMeSection from './about-me/AboutMeSection'
 import ProfileSection from './profile/ProfileSection'
 import PortfolioSection from './portfolio/PortfolioSection'
+import ContactSection from './contact/ContactSection'
 import './MainPage.css'
 
 function MainPage(){
@@ -9,6 +10,7 @@ function MainPage(){
       <AboutMeSection/>
       <ProfileSection/>
       <PortfolioSection/>
+      <ContactSection/>
     </div>
   );
 }
